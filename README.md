@@ -45,7 +45,7 @@ This project was created to practice:
 - Connect the login form to a backend database
 
 ## Screenshot
-![PraRoz Homepage](Screenshot(3).png)
+![PraRoz Homepage](Screenshot.png)
 
 
 ## Author
